@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ps
+    4  ps aux
+    5  man ps
+    6  ps aux 
+    7  ps aux l grep firefox
+    8  firefox &
+    9  ls -lt
+   10  mv history_20220916.txt ./RTR105_2022_V02/
+   11  mv history_20220916.txt ~/RTR105_2022_V02/
+   12  mv history_20220916a.txt ~/RTR105_2022_V02/
+   13  ~/RTR105_2022_V02 git config --global user.name tatusmatrix
+   14  ~/RTR105_2022_V02 git config --global user.name lenards
+   15  ~/RTR105_2022_V02 git config --global user.email ...
+   16  ~/RTR105_2022_V02 git commit -m "Class_03a"
+   17  -5 cd/RTR105/
+   18  -ls cd/RTR105/
+   19  ~/RTR105_2022_V02 git config --global user.name lenards
+   20  -ls cd/RTR105/
+   21  ~/RTR105_2022_V02 git config --global user.name lenards
+   22  -ls cd RTR105/
+   23*  cd/RTR105/
+   24  ~/RTR105_2022_V02 git config --global user.name lenards
+   25  git add -
+   26  ~/RTR105_2022_V02 git config --global user.name lenards
+   27  pwd
+   28  ls -lt
+   29  cd RTR105_2022_V02/
+   30  pwd
+   31  ls -lta
+   32  git add -
+   33  git add .
+   34  git config --global user.name lenards
+   35  git config --global user.email ...
+   36  git commit -m "Class_03a"
+   37  git push origin main
+   38  history > history_20220916b.txt 

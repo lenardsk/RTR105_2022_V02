@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  echo $PATH
+    5  hello world
+    6  hello-world
+    7  exit
+    8  /RTR105_2022_V02$ pwd
+    9  cd /RTR105_2022_V02
+   10  ls
+   11  cd RTR105_2022_V02/
+   12  PWD
+   13  pwd
+   14  ls -lt
+   15  mv hello-world /RTR105_2022_V02$/
+   16  ls 
+   17  cd
+   18  mv hello-world /RTR105_2022_V02$/
+   19  ls -lt
+   20  mv hello-world /RTR105_2022_V02$/
+   21  mv hello-world /105_2022_V02$/
+   22  mv hello-world RTR105_2022_V02/
+   23  cd
+   24  cd RTR105_2022_V02/
+   25  ls -lt
+   26  git-upload
+   27  chmod 755 hello-world
+   28  git-upload
+   29  ls -lt
+   30  ls
+   31  ls -lt
+   32  nano
+   33  ls -lt
+   34  nano git-upload 
+   35  ls -lt
+   36  history 
+   37  history > history_20220923b.txt 

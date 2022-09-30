@@ -1,0 +1,5 @@
+# ignorēt izpildāmos failus - ar paplašinājumu out
+*.out
+
+# ignoreet objekta f ar ppl .o
+*.o

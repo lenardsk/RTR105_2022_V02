@@ -7,7 +7,7 @@ Elelektroniskā klade Datormācībā(Pamatkurss)
     4  echo $PATH
     7  exit
     8  /RTR105_2022_V02$ pwd
-    9  cd /RTR105_2022_V02
+    9  cd /RTR105_2022_V02 ieiet mapee 
    10  ls
    11  cd RTR105_2022_V02/
    12  PWD

@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls lt
+    5  clear
+    6  pwd
+    7  ls -lt
+    8  ls -l
+    9  ls l
+   10  clear
+   11  ls
+   12  ls -l
+   13  git clone https://github.com/lenardsk/RTR105_2022_V02
+   14  mkdir Class_09
+   15  pwd
+   16  ls
+   17  cd RTR105_2022_V02/
+   18  mkdir Class_09
+   19  ls
+   20  cd Class_09
+   21  pwd
+   22  nano char_data_type_tests.c
+   23  gcc char_data_type_tests.c 
+   24  ls -lt
+   25  ./a.out
+   26  nano char_data_type_tests.c
+   27  gcc char_data_type_tests.c 
+   28  nano char_data_type_tests.c
+   29  git-upload
+   30  cd ..
+   31  pwd
+   32  history_20221014.txt
+   33  history>history_202209

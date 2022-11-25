@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/lenardsk/RTR105_2022_V02
+    4  cd RTR105_2022_V02/
+    5  mkdir Class_15
+    6  cd Class_15
+    7  nano
+    8  nano plāns.c\
+    9  nano plans.c
+   10  gcc plāns.c
+   11  nano plans.c
+   12  gcc plāns.c
+   13  nano plans.c
+   14  gcc plans.c 
+   15  ./a.out
+   16  nano plans.c
+   17  gcc plans.c 
+   18  ./a.out
+   19  nano plans.c
+   20  gcc plans.c 
+   21  ./a.out
+   22  nano plans_2.c
+   23  gcc plans_2.c
+   24  ./a.out
+   25  gcc plans_2.c
+   26  ./a.out
+   27  gcc plans_2.c
+   28  nano plans_2.c
+   29  nano plans_3.c
+   30  gcc plans_3.c
+   31  ee
+   32  gcc plans_3.c
+   33  ./a.out
+   34  nano plans_4.c
+   35  gcc plans_4.c
+   36  ./a.out
+   37  gcc plans_4.c
+   38  ./a.out
+   39  gcc plans_4.c
+   40  git-upload
+   41  ./git-upload lenardsk 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
+   42  cd..
+   43  cd ..
+   44  ./git-upload lenardsk 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
+   45  ls
+   46  cd Class_15
+   47  ./git-upload lenardsk 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
+   48  history > history
+   49  history > history.txt

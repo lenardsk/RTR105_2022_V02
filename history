@@ -1,0 +1,111 @@
+    1  nano loops.c
+    2  pwd
+    3  ls
+    4  mkdir 3
+    5  ls
+    6  mkdir testi
+    7  cd testi
+    8  nano loops.c
+    9  gcc loops.c
+   10  nano loops.c
+   11  gcc loops.c
+   12  nano loops.c
+   13  gcc loops.c
+   14  nano loops.c
+   15  gcc loops.c
+   16  ./a.out
+   17  8
+   18  ./a.out
+   19  ./a.out
+   20  ls lt
+   21  ls 
+   22  cd Documents
+   23  nano reizināšana.c
+   24  gcc reizināšana.c
+   25  ./a.out
+   26  nano reizināšana.c
+   27  gcc reizināšana.c
+   28  ./a.out
+   29  nano reizināšana.c
+   30  ./git-upload lenardsk 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 Uzdevums_reizinasana
+   31  pwd
+   32  cd ..
+   33  ./git-upload lenardsk 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 Uzdevums_reizinasana
+   34  git clone https://github.com/lenardsk/RTR105_2022_V02
+   35  sudo apt install git
+   36  git clone https://github.com/lenardsk/RTR105_2022_V02
+   37  ./git-upload lenardsk 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 Uzdevums_reizinasana
+   38  cd RTR105_2022_V02/
+   39  ls lt
+   40  ls
+   41  ./git-upload lenardsk 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 Uzdevums_reizinasana
+   42  ./git-upload lenardsk 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 Uzdevums_reizinasana
+   43  mkdir uzdevums_reizinasana
+   44  ls
+   45  mv reizināšana.c uzdevums_reizinasana
+   46  ls
+   47  cd uzdevums_reizinasana
+   48  ls
+   49  cd ..
+   50  git clone https://github.com/lenardsk/RTR105_2022_V02
+   51  ls lt
+   52  ls -l
+   53  cd RTR105_2022_V02/
+   54  ls -l
+   55  gcc dectobin.c
+   56  nano dectobin.c
+   57  gcc dectobin.c
+   58  nano dectobin.c
+   59  gcc dectobin.c
+   60  nano dectobin.c
+   61  gcc dectobin.c
+   62  nano dectobin.c
+   63  gcc dectobin.c
+   64  ls lt
+   65  ls -l
+   66  mkdir uzdevums_dec_bin
+   67  cd uzdevums_dec_bin/
+   68  nano dectobin.c
+   69  gcc dectobin.c
+   70  ./a.out dectobin.c
+   71  ./a.out dectobin.c
+   72  ./a.out dectobin.c
+   73  nano dectobin.c
+   74  gcc dectobin.c
+   75  ./a.out dectobin.c
+   76  nano dectobin.c
+   77  cd ..
+   78  mkdir if+simple sort
+   79  cd if+simple
+   80  nano sort.c
+   81  gcc sort.c 
+   82  nano sort.c
+   83  gcc sort.c 
+   84  ./a.out sort.c
+   85  nano sort.c
+   86  gcc sort.c 
+   87  ./a.out sort.c
+   88  cd ..
+   89  mkdir uzdevums_for+factorial
+   90  cd uzdevums_for+factorial/
+   91  nano for+factorial.c
+   92  gcc for+factorial.c 
+   93  ./a.out for+factorial.c
+   94  nano for+factorial.c
+   95  gcc for+factorial.c 
+   96  ./a.out for+factorial.c
+   97  cd ..
+   98  mkdir uzdevums_while+factorial.c
+   99  cd uzdevums_while+factorial.c/
+  100  nano while+factorial.c
+  101  gcc while+factorial.c 
+  102  ./a.out while+factorial.c 
+  103  nano while+factorial.c
+  104  gcc while+factorial.c 
+  105  ./a.out while+factorial.c 
+  106  cd .. 
+  107  cd ..
+  108  pwd
+  109  ls -l
+  110  cd RTR105_2022_V02/
+  111  history > history
